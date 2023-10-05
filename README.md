@@ -28,7 +28,7 @@ The Network Sniffer with Scapy is a Python script designed for network analysis 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
